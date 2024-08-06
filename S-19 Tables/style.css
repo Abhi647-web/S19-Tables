@@ -1,0 +1,48 @@
+#mainHead {
+  font-size: 3rem;
+  font-weight: bolder;
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+#stamp {
+  width: 200px;
+  padding-left: 650px;
+}
+#formal {
+  width: 200px;
+  padding-left: 370px;
+}
+h4 {
+  font-size: 1.6rem;
+  position: relative;
+  left: 336px;
+  bottom: 110px;
+}
+#space {
+  padding-left: 5px;
+  position: relative;
+  top: 7px;
+}
+.space1 {
+  padding-left: 5px;
+  position: relative;
+  top: 12px;
+}
+td,
+th {
+  border: 1px solid black;
+}
+table {
+  position: relative;
+  bottom: 470px;
+  left: 300px;
+  font-size: 1.5rem;
+}
+#mainSubject {
+  padding: 20px;
+}
+table {
+  border: 10px solid black;
+  border-collapse: collapse;
+}
